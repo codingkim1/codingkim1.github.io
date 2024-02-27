@@ -15,12 +15,12 @@ header {
 nav {
     display: flex;
     justify-content: center;
-    background-color: #3fd64671;
+    background-color: #cbd4cb71;
     padding: 0.5em;
 }
 
 nav a {
-    color: #fff;
+    color: #130b0b;
     text-decoration: none;
     padding: 0.5em 1em;
     margin: 0 1em;
